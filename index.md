@@ -1,123 +1,91 @@
----
-layout: default
----
+# What is Edion?
+Edion is aiming to build an autonomous educational system that can work on an interplanetary scale. The goal is to automate teaching, decentralize knowledge and provide quality education for all.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Why education needs an upgrade
+Compiling and enforcing a curriculum is no easy task. Every national and international educational programme relies on the hard work of leading professionals in the sphere of education. Unfortunately, these professionals cannot make educational programmes catch up to the exponential acceleration of technological and social progress, nor can they make these programmes fool-proof in the face of social, economic, political, and, soon, ecological instability.
 
-[Link to another page](./another-page.html).
+In some regions, education gets relentlessly stripped of truthful information, replaced with propaganda to make a false image of the state of the world. The global family needs a fully-transparent and uncensorable alternative to counter disinformation.
 
-There should be whitespace between paragraphs.
+The model of education used globally has not changed much since the industrial revolution. Thanks to the recent renaissance in the development of artificial intelligence and network technologies, education can and must be reconceived by utilizing these state-of-the-art technologies to tailor exclusive educational roadmaps for every student everywhere.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Late 21st-century education conceived
+Every student on the planet has a life-long, personally tailored, coherent educational experience based on their interests, talents and preferences. Their roadmaps get generated based on information in a freely accessible ever-expanding ledger of immutable sources. Their assessments get automatically generated and marked in a fully trustless fashion. There is minimal intervention from human actors, and their authority is deserved and limited. The entire platform runs as a decentralized autonomous organization based on proof-of-personhood, where every student and educator can vote democratically on the platform's expansion and improvement. Creating learning material and making course progress are both incentivized and gamified by tokenomics. The quality of education is very high and consistent for everyone, everywhere, always.
 
-# Header 1
+# The four use cases
+There are four use cases for using Edion in the current global social setting. Each employs the recommendation algorithm used for curriculum personalization to different extents.
+As a class management system for unaffiliated schools and teachers (the recommendation algorithm not used)
+As an accredited online school with pre-configured roadmaps and diplomas issued by qualification providers such as the IBO or the CIE (the recommendation algorithm is suggestive)
+Curricula builder for qualification providers and schools (the recommendation algorithm is suggestive for building but not used for teaching)
+**As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)**
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# An (almost) technical specification
+## The three layers
+### Layer 0
+Edion's core. A distributed ledger of sources and learning materials hosted on the IPFS peer-to-peer network. The process of writing, generating, adding and organizing these materials is regulated via layer 1.
 
-## Header 2
+The distributed nature of the ledger prevents tampering with learning materials by permanently storing file history.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+#### Layer 0.alt
+Due to copyright restrictions, some materials will have to be hosted by the foundation in a federated network and integrated with layer 1, independently of the materials hosted on IPFS.
 
-### Header 3
+### Layer 1
+If layer 0 is the textbook, then layer 1 is the professor.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Layer 1 consists of the user-mechanics module, the roadmap configurator, trustless exam proctoring, a mentoring system, plagiarism detection and exercise/exam generation.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### User-mechanics module
+The user-mechanics module defines account activity for two types of users. An account may be both types of user.
 
-#### Header 4
+##### User type 1: student
+A student account goes through the initial roadmap configuration and then works through their educational roadmap. The roadmap gets revised after every assignment/assessment submission using the recommendation algorithm.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+##### User type 2: educator
+There are three educator ranks.
+###### Rank 0: supervisor
+This rank has access to the progress tracker, class statistics and class blog moderation in the first use case.
 
-##### Header 5
+This rank may submit resources and assignments to the knowledge ledger (layer 0), but these submissions are revised and approved by educator accounts of rank 1.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+###### Rank 1: marker
+This rank is privileged to mark complex assignments that cannot be marked algorithmically in the second and fourth use cases. A score must get agreed upon by a plurality of marker accounts first. After an agreement gets reached, the score gets awarded to the student.
 
-###### Header 6
+Additionally, this rank may review the level of compliance of submitted learning materials before these materials can get added to the knowledge ledger. Similarly to marking, a plurality of marker-ranked accounts must agree on the level of compliance.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+###### Rank 2: mentor
+This rank has live mentoring privileges and must be a teacher with valid teaching credentials supplied through a decentralized identity management service such as Civic.
 
-### There's a horizontal rule below this.
+#### Roadmap configurator
+A roadmap is a sequence of meta-blocks consisting of learning materials arranged to make a cohesive learning experience. Each meta-block consists of a block, and each block consists of a sub-block.
 
-* * *
+In use cases 1-3, the roadmap gets pre-configured for students by schools, with optional suggestions from the recommendation algorithm.
 
-### Here is an unordered list:
+In use case 4, the roadmap gets configured entirely based on preferences and suggestions from the recommendation algorithm.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+##### Recommendation algorithm
+The recommendation algorithm uses student account data to (1) make roadmap configuration recommendations and (2) improve future recommendations.
 
-### And an ordered list:
+The student account data usable for making recommendations consists of an initial set of examinations testing for proficiency in the full range of skills/subjects, a HEXACO model of personality structure completed meta-blocks/blocks/sub-blocks and the level of success, as well as personal preference questionnaires.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+#### Trustless exam proctoring
+If a block includes an examination, this examination has to get proctored. All proctoring solutions available on the market are proprietary and heavily infringe on privacy. Trustless exam proctoring has to be decentralized and does not involve a middle person.
 
-### And a nested list:
+AI takes care of facial recognition, spatial analysis and eye-tracking to spot potential academic dishonesty and reports this potentiality to an educator. The educator does not have access to evidence for academic dishonesty until the student provides it to them themselves along with their case.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Alternatively, the student may choose to retake the exam with a different set of questions.
 
-### Small image
+#### Plagiarism detection
+For written assignments, a plagiarism detection mechanism is a requirement.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+In contrast to plagiarism detectors already on the market (e.g. Turnitin), on Edion, plagiarism detection relies on the IPFS knowledge ledger to sort through all the learning materials and past assignment submissions.
 
-### Large image
+Additionally, the detector parses the clearnet just like the proprietary alternatives.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+#### Exercise generation
+Some exercises and problems may get generated at the time of access. For example, exercises that test for knowledge of physics equations, worded mathematical application exercises, exercises relating to chemical reactions, etc.
+
+Skeletons for such problems will be hosted on the IPFS network (layer 0), while the final exercises get generated in contracts (layer 1).
+
+#### Gamification
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+### Layer 2
