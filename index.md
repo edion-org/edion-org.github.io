@@ -18,6 +18,7 @@ There are four use cases for using Edion in the current global social setting. E
 3. Curricula builder for qualification providers and schools (the recommendation algorithm is suggestive for building but not used for teaching)
 4. As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)
 
+---
 # An (almost) technical specification
 ## Layer 0: the core
 Edion's core. A distributed ledger of sources and learning materials hosted on the IPFS peer-to-peer network. The process of writing, generating, adding and organizing these materials is regulated via layer 1.
@@ -108,6 +109,7 @@ Matrix, used for chat-functionality on group assignments, resolving academic dis
 ## Layer 2: the user interface
 A virtual classroom, consisting of a calendar, chat, unscheduled call functionality and other features, conceived as a decentralized and free/libre and open-source alternative to ManageBac and AtlasNext.
 
+---
 # The philosophy
 Edion relies on free/libre and open-source software (FLOSS) exclusively. As an autonomous system without a central governing authority, anyone must have the ability to look at and contribute to the code.
 
