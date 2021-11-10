@@ -16,7 +16,7 @@ There are four use cases for using Edion in the current global social setting. E
 1. As a class management system for unaffiliated schools and teachers (the recommendation algorithm not used)
 2. As an accredited online school with pre-configured roadmaps and diplomas issued by qualification providers such as the IBO or the CIE (the recommendation algorithm is suggestive)
 3. Curricula builder for qualification providers and schools (the recommendation algorithm is suggestive for building but not used for teaching)
-**3. As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)**
+4. **As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)**
 
 # An (almost) technical specification
 ## Layer 0: the core
