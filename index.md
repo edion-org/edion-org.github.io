@@ -118,7 +118,7 @@ Distribution and decentralization are at the core of Edion. Network models emplo
 Since Edion seeks to become the standard for education globally, simplicity and neutrality must be central, both technically and visually, to accommodate scalability, readability and cultural diversity.
 
 ---
-You can contact the founder by sending email to **deliev at gjh period sk**.
+You can contact the founder by emailing **deliev at gjh period sk**.
 
 <a href="http://www.softwarefreedom.org/">
 <img src="http://www.softwarefreedom.org/img/support-sflc.png" alt="[frdm] Support SFLC" height="31" width="88" border="0" title="Software Freedom Law Center" />
