@@ -16,7 +16,7 @@ There are four use cases for using Edion in the current global social setting. E
 1. As a class management system for unaffiliated schools and teachers (the recommendation algorithm not used)
 2. As an accredited online school with pre-configured roadmaps and diplomas issued by qualification providers such as the IBO or the CIE (the recommendation algorithm is suggestive)
 3. Curricula builder for qualification providers and schools (the recommendation algorithm is suggestive for building but not used for teaching)
-4. **As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)**
+4. As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)
 
 # An (almost) technical specification
 ## Layer 0: the core
@@ -100,7 +100,9 @@ Only educator accounts get to vote on proposals related to the educator side of 
 
 ### Integrations
 Civic, used for identity verification in cases where the student is seeking qualification (use case 1) and for educator ranks marker and above
+
 Jitsi, used for mentoring and unscheduled video calls with an additional VR customizable avatar replicating facial expressions, is available for cases where the student or teacher seeks to retain anonymity.
+
 Matrix, used for chat-functionality on group assignments, resolving academic dishonesty issues and marking appeals
 
 ## Layer 2: the user interface
@@ -112,3 +114,11 @@ Edion relies on free/libre and open-source software (FLOSS) exclusively. As an a
 Distribution and decentralization are at the core of Edion. Network models employed must be as distributed as possible to preserve the integrity of the mechanism and the materials.
 
 Since Edion seeks to become the standard for education globally, simplicity and neutrality must be central, both technically and visually, to accommodate scalability, readability and cultural diversity.
+
+---
+You can contact Edion's founder by sending an email to **deliev at gjh period sk**.
+
+<a href="http://www.softwarefreedom.org/">
+<img src="http://www.softwarefreedom.org/img/support-sflc.png" alt="[frdm] Support SFLC" height="31" width="88" border="0" title="Software Freedom Law Center" />
+</a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
