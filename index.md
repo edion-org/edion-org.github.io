@@ -1,21 +1,21 @@
 # What is Edion?
-Edion is aiming to build an autonomous educational system that can work on an interplanetary scale. The goal is to automate teaching, decentralize knowledge and provide quality education for all.
+Edion is aiming to build a universal multilingual autonomous educational system. The goal is to automate, decentralize and improve the standard of education for all.
 
 ## Why education needs an upgrade
-Compiling and enforcing a curriculum is no easy task. Every national and international educational programme relies on the hard work of leading professionals in the sphere of education. Unfortunately, these professionals cannot make educational programmes catch up to the exponential acceleration of technological and social progress, nor can they make these programmes fool-proof in the face of social, economic, political, and, soon, ecological instability.
+The model of education used globally has not changed much since the industrial revolution. The advent of machine learning and network technologies provides the foundation for a new educative paradigm. It is imperative to use these tools to tailor exclusive educational roadmaps for every student everywhere.
 
 In some regions, education gets relentlessly stripped of truthful information, replaced with propaganda to make a false image of the state of the world. The global family needs a fully-transparent and uncensorable alternative to counter disinformation.
 
-The model of education used globally has not changed much since the industrial revolution. Thanks to the recent renaissance in the development of artificial intelligence and network technologies, education can and must be reconceived by utilizing these state-of-the-art technologies to tailor exclusive educational roadmaps for every student everywhere.
+Compiling and enforcing a curriculum is no easy task. Every national and international educational programme relies on the hard work of leading professionals in the sphere of education. Unfortunately, these professionals cannot make educational programmes catch up to the exponential acceleration of technological and social progress, nor can they make these programmes fool-proof in the face of social, economic, political, and ecological instability.
 
 ## Late 21st-century education conceived
-Every student on the planet has a life-long, personally tailored, coherent educational experience based on their interests, talents and preferences. Their roadmaps get generated based on information in a freely accessible ever-expanding ledger of immutable sources. Their assessments get automatically generated and marked in a fully trustless fashion. There is minimal intervention from human actors, and their authority is deserved and limited. The entire platform runs as a decentralized autonomous organization based on proof-of-personhood, where every student and educator can vote democratically on the platform's expansion and improvement. Creating learning material and making course progress are both incentivized and gamified by tokenomics. The quality of education is very high and consistent for everyone, everywhere, always.
+Every student on the planet has a life-long, personally tailored, coherent educational experience based on their interests, talents, and preferences. Their roadmaps get generated based on information in a freely accessible, ever-expanding ledger of immutable sources. Their assessments get automatically generated and marked in a fully trustless fashion. There is minimal intervention from human actors, and their authority is structurally limited. The entire platform runs as a decentralized autonomous organization based on proof-of-personhood, where every student and educator can vote democratically on the platform's expansion and improvement. Creating learning material and making course progress are both incentivized and gamified by tokenomics. The quality of education is very high and consistent for everyone, everywhere, always.
 
 ## The four use cases
 There are four use cases for using Edion in the current global social setting. Each employs the recommendation algorithm used for curriculum personalization to different extents.
 1. As a class management system for unaffiliated schools and teachers (the recommendation algorithm not used)
 2. As an accredited online school with pre-configured roadmaps and diplomas issued by qualification providers such as the IBO or the CIE (the recommendation algorithm is suggestive)
-3. Curricula builder for qualification providers and schools (the recommendation algorithm is suggestive for building but not used for teaching)
+3. Curricula builder for qualification providers and schools (the recommendation algorithm is suggestive for building, but not used for teaching)
 4. As a standalone fully-personalized continuous educational system ready-made for an interplanetary civilization (the recommendation algorithm is central)
 
 ---
@@ -45,7 +45,7 @@ There are three educator ranks.
 ##### Rank 0: supervisor
 This rank has access to the progress tracker, class statistics and class blog moderation in the first use case.
 
-This rank may submit resources and assignments to the knowledge ledger (layer 0), but these submissions are revised and approved by educator accounts of rank 1.
+This rank may submit resources and assignments to the knowledge ledger (layer 0), but these submissions get revised and approved by educator accounts of rank 1.
 
 ##### Rank 1: marker
 This rank is privileged to mark complex assignments that cannot be marked algorithmically in the second and fourth use cases. A score must get agreed upon by a plurality of marker accounts first. After an agreement gets reached, the score gets awarded to the student.
@@ -53,7 +53,7 @@ This rank is privileged to mark complex assignments that cannot be marked algori
 Additionally, this rank may review the level of compliance of submitted learning materials before these materials can get added to the knowledge ledger. Similarly to marking, a plurality of marker-ranked accounts must agree on the level of compliance.
 
 ##### Rank 2: mentor
-This rank has live mentoring privileges and must be a teacher with valid teaching credentials supplied through a decentralized identity management service such as Civic.
+This rank has live mentoring privileges and must be a teacher with valid teaching credentials supplied through a decentralized identity-management service such as Civic.
 
 ### Roadmap configurator
 A roadmap is a sequence of meta-blocks consisting of learning materials arranged to make a cohesive learning experience. Each meta-block consists of a block, and each block consists of a sub-block.
@@ -65,7 +65,7 @@ In use case 4, the roadmap gets configured entirely based on preferences and sug
 #### Recommendation algorithm
 The recommendation algorithm uses student account data to (1) make roadmap configuration recommendations and (2) improve future recommendations.
 
-The student account data usable for making recommendations consists of an initial set of examinations testing for proficiency in the full range of skills/subjects, a HEXACO model of personality structure completed meta-blocks/blocks/sub-blocks and the level of success, as well as personal preference questionnaires.
+The student account data usable for making recommendations at first consists of an initial set of examinations testing for proficiency in the full range of skills/subjects and a HEXACO model of personality structure. Throughout the student’s use of the platform, the algorithm employs the student’s data from completed meta-blocks/blocks/sub-blocks, as well as personal preference questionnaires to further improve its study recommendations.
 
 ### Trustless exam proctoring
 If a block includes an examination, this examination has to get proctored. All proctoring solutions available on the market are proprietary and heavily infringe on privacy. Trustless exam proctoring has to be decentralized and does not involve a middle person.
@@ -75,16 +75,16 @@ AI takes care of facial recognition, spatial analysis and eye-tracking to spot p
 Alternatively, the student may choose to retake the exam with a different set of questions.
 
 ### Plagiarism detection
-For written assignments, a plagiarism detection mechanism is a requirement.
+For written assignments, a plagiarism-detection mechanism is a requirement.
 
-In contrast to plagiarism detectors already on the market (e.g. Turnitin), on Edion, plagiarism detection relies on the IPFS knowledge ledger to sort through all the learning materials and past assignment submissions.
+In contrast to plagiarism detectors already on the market (e.g., Turnitin), on Edion, plagiarism detection relies on the IPFS knowledge ledger to sort through all the learning materials and past assignment submissions.
 
 Additionally, the detector parses the clearnet just like the proprietary alternatives.
 
 ### Exercise generation
-Some exercises and problems may get generated at the time of access. For example, exercises that test for knowledge of physics equations, worded mathematical application exercises, exercises relating to chemical reactions, etc.
+Some exercises and problems may get generated at the time of access. For example, exercises that test for knowledge of physics equations, worded mathematical application exercises, exercises that relate to chemical reactions, etc.
 
-Skeletons for such problems will be hosted on the IPFS network (layer 0), while the final exercises get generated in contracts (layer 1).
+Skeletons for such exercises will be hosted on the IPFS network (layer 0), while the final exercises get generated in contracts (layer 1).
 
 ### Gamification
 Edion tokenomics rely heavily on the gamification properties of the system. For students, the Edion token gets earned in proportion to the quality of submitted assignments, block completion and examination scores. For educators, the Edion token gets paid for submitted learning materials, marking and mentoring. Along with the token payments, both types of accounts get exposed to a level-up system, badges, and leaderboards based on location, study categories and age. Tokens may get spent on in-game avatar customization or get withdrawn.
@@ -92,7 +92,7 @@ Edion tokenomics rely heavily on the gamification properties of the system. For 
 ### Incentivization
 Although both student and educator accounts earn the Edion token for task completion, the tasks linked to educator accounts pay much more than any student account task. Additionally, only educator accounts that have passed a threshold for task completion have access to a native fiat bridge, enabling them to withdraw their funds directly to their bank account.
 
-Student accounts may withdraw their funds to an exchange that supports the Edion token or spend directly on in-game avatar customization.
+Student accounts may withdraw their funds to an exchange that supports the Edion token, or spend directly on in-game avatar customization.
 
 ### Decentralized autonomous organization (DAO)
 Edion runs as a multilevel decentralized autonomous organization based on proof of personhood (PoP). Every account that has passed verification via Civic gains a single vote usable for voting on proposals to the protocols.
