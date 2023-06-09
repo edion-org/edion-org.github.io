@@ -11,16 +11,16 @@ Edion's future is dotted with ambitious plans, including the rollout of our beta
 # The Visionaries Behind Edion
 Edion is captained by co-founders Ark Deliev and Lucas Monné, taking on the roles of CEO and CTO, respectively.
 
-## Ark Deliev - Co-founder, CEO:
+## Ark Deliev - Co-founder, CEO
 Ark is a prodigious Artificial Intelligence student at the University of Groningen, scheduled to graduate next year. His impressive background in crypto and decentralised finance, marked by successful stints with projects like Stellite and Metavault DAO, bolsters Edion's innovative mission.
 
-## Lucas Monné - Co-founder, CTO:
+## Lucas Monné - Co-founder, CTO
 A distinguished alumnus of the University of Groningen's Artificial Intelligence programme, Lucas is currently mastering the same field at Vrije University, Amsterdam. His prowess in machine learning and decentralised finance, demonstrated through key contributions to the DeFi project Eternal, is an asset to Edion.
 
 Their collective proficiency in artificial intelligence, seasoned with their hands-on experience in the dynamic crypto and DeFi sectors, uniquely positions them to navigate Edion's transformative journey. Their mutual vision and understanding of the intricate symbiosis between technology and user needs serve as the lifeblood of Edion's quest to reshape the educational experience.
 
 ---
-# Our Organisational Structure and Aspirations:
+# Our Organisational Structure and Aspirations
 Edion thrives on the synergy of a lean and dedicated team, each member contributing significantly to our core endeavours, including product development, research, marketing, and community engagement. As we navigate the path of growth, we remain committed to building on this solid foundation, aiming to etch our name as a global trailblazer in AI-enhanced education management systems.
 
 ---
