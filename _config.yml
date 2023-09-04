@@ -3,4 +3,4 @@ logo: /assets/logo.png
 description: The organization behind the autonomous interplanetary educational system of the same name.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minimal
