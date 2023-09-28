@@ -1,31 +1,40 @@
 # What is Edion?
-Edion is a trailblazing start-up, seeking to revolutionise the educational landscape by intertwining advanced Large Language Models (LLM) with conventional Learning Management Systems (LMS). Designed specifically for secondary schools, Edion merges the power of artificial intelligence with the world of education, offering a digital tutor for students and a digital assistant for teachers. By enhancing personalised learning experiences and providing educators with transformative insights, Edion stands on the cusp of redefining the digital education ecosystem.
+Edion is an innovative start-up poised to elevate the education sector by seamlessly integrating advanced Large Language Models (LLMs) with traditional Learning Management Systems (LMS). While our vision encompasses a student-focused AI tutor, our primary concentration is on a revolutionary AI-powered teacher's assistant tailored for secondary education. This AI assistant is meticulously crafted to alleviate educators' administrative burdens, offering solutions like conversational academic progress and behavioural reporting, allowing teachers more time and energy to dedicate to quality education.
 
 ---
 # Funding and Ambitions
-Edion is currently in its nascent phase and is primarily self-financed. We are, however, in the advanced stages of securing the MIT subsidy, a substantial grant from the Samenwerkingsverband Noord-Nederland (SNN) of the Dutch government. This subsidy aims to catalyse innovation within small and medium-sized enterprises by providing financial support for ambitious research and development projects. This grant will serve as a linchpin, enabling Edion to supercharge its product development and bring our ground-breaking vision to life.
-
-Edion's future is dotted with ambitious plans, including the rollout of our beta version, expanding our user base, and continually refining our AI-driven platform based on user needs and valuable feedback. We are focused on forging partnerships with educational institutions, ensuring that Edion's pioneering solutions remain at the vanguard of technological and educational evolution.
+Our journey has received a significant boost with the attainment of the MIT grant, administered by the Samenwerkingsverband Noord-Nederland (SNN). This milestone not only reflects confidence in our innovation but also mandates us to complete an exhaustive feasibility study by the year's end, a challenge we are adeptly navigating. Every stride in our journey is geared towards refining and expanding the AI assistant, aligning its functionalities with the practical and diverse needs of educators.
 
 ---
 # The Visionaries Behind Edion
-Edion is captained by co-founders Ark Deliev and Lucas Monné, taking on the roles of CEO and CTO, respectively.
+Edion’s journey is steered by co-founders Ark Deliev and Lucas Monné.
 
 ## Ark Deliev - Co-founder, CEO
-Ark is a prodigious Artificial Intelligence student at the University of Groningen, scheduled to graduate next year. His impressive background in crypto and decentralised finance, marked by successful stints with projects like Stellite and Metavault DAO, bolsters Edion's innovative mission.
+Ark is an AI bachelor-level student at the University of Groningen, scheduled to graduate next year.He brings to Edion a rich backdrop of experience and insights from the realms of crypto and decentralised finance, having contributed to notable projects like Stellite and Metavault DAO.
+
+You can contact Ark by emailing **ark period deliev at pm period me**.
 
 ## Lucas Monné - Co-founder, CTO
-A distinguished alumnus of the University of Groningen's Artificial Intelligence programme, Lucas is currently mastering the same field at Vrije University, Amsterdam. His prowess in machine learning and decentralised finance, demonstrated through key contributions to the DeFi project Eternal, is an asset to Edion.
+Lucas completed his bachelor's degree in AI at the University of Groningen and is currently pursuing his master’s in AI at Vrije University, Amsterdam. His expertise in machine learning is enriched by significant contributions to the DeFi project Eternal.
 
-Their collective proficiency in artificial intelligence, seasoned with their hands-on experience in the dynamic crypto and DeFi sectors, uniquely positions them to navigate Edion's transformative journey. Their mutual vision and understanding of the intricate symbiosis between technology and user needs serve as the lifeblood of Edion's quest to reshape the educational experience.
+You can contact Lucas by emailing **lmonne at pm period me**.
 
----
-# Our Organisational Structure and Aspirations
-Edion thrives on the synergy of a lean and dedicated team, each member contributing significantly to our core endeavours, including product development, research, marketing, and community engagement. As we navigate the path of growth, we remain committed to building on this solid foundation, aiming to etch our name as a global trailblazer in AI-enhanced education management systems.
+The duo's combined skills set, rooted in AI and amplified by real-world applications in crypto and DeFi, are the driving forces propelling Edion to pioneer transformative educational solutions.
 
 ---
-You can contact the founder by emailing **a period deliev at student period rug period nl**.
+# Our Current Focus
+In the wake of the MIT grant, our focus is honed on the AI teaching assistant, a tool designed to revolutionize how teachers manage administrative tasks. Edion's AI assistant stands distinct for its conversational approach to academic and behavioural reporting, an innovation set to render this traditionally time-consuming task efficient and intuitive.
 
+Teachers can engage in natural conversations about their students, and the AI assistant adeptly translates this into comprehensive and insightful reports. This feature, coupled with the ease of recollecting detailed student histories and the AI's ability to offer referral and decision-making recommendations based on incident details and student history, underscores Edion’s uniqueness.
+
+While our MVP is focused on the AI teacher’s assistant, the vision for a student-facing AI tutor remains alive. It is an integral part of our long-term strategy to offer a holistic and enriched learning and teaching environment, though for now, the emphasis is on perfecting and rolling out the teacher’s assistant tool.
+
+---
+# Join Us in This Educational Revolution
+
+Edion is not just a tool; it's a movement towards optimized, efficient, and qualitative education. As we continue to innovate and refine our offerings, we invite educators, institutions, and stakeholders in the education sector to join us in this exciting journey. Together, we can sculpt an educational landscape where technology and human ingenuity converge for enriched learning and teaching experiences.
+
+---
 <a href="http://www.softwarefreedom.org/">
 <img src="http://www.softwarefreedom.org/img/support-sflc.png" alt="[frdm] Support SFLC" height="31" width="88" border="0" title="Software Freedom Law Center" />
 </a>
