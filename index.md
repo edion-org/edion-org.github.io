@@ -12,12 +12,12 @@ Edion’s journey is steered by co-founders Ark Deliev and Lucas Monné.
 ## Ark Deliev - Co-founder, CEO
 Ark is an AI bachelor-level student at the University of Groningen, scheduled to graduate next year.He brings to Edion a rich backdrop of experience and insights from the realms of crypto and decentralised finance, having contributed to notable projects like Stellite and Metavault DAO.
 
-You can contact Ark by emailing **ark period deliev at pm period me**.
+You can contact Ark by emailing **ark period deliev at edion period io**.
 
 ## Lucas Monné - Co-founder, CTO
-Lucas completed his bachelor's degree in AI at the University of Groningen and is currently pursuing his master’s in AI at Vrije University, Amsterdam. His expertise in machine learning is enriched by significant contributions to the DeFi project Eternal.
+Lucas completed his bachelor's degree in AI at the University of Groningen and his master’s in AI at the Vrije University in Amsterdam. His expertise in machine learning is enriched by significant contributions to the DeFi project Eternal.
 
-You can contact Lucas by emailing **lmonne at pm period me**.
+You can contact Lucas by emailing **lmonne at edion period io**.
 
 The duo's combined skills set, rooted in AI and amplified by real-world applications in crypto and DeFi, are the driving forces propelling Edion to pioneer transformative educational solutions.
 
