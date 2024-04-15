@@ -9,17 +9,17 @@ Our journey has received a significant boost with the attainment of the MIT gran
 # The Visionaries Behind Edion
 Edion’s journey is steered by co-founders Ark Deliev and Olivia Monné.
 
-## Ark Deliev - Co-founder, CEO
+## Ark Deliev - Co-founder, CEO  [(Linkedin)](https://www.linkedin.com/in/arkdeliev/)
 Ark is an AI bachelor-level student at the University of Groningen, scheduled to graduate next year. He brings to Edion a rich backdrop of experience and insights from the realms of crypto and decentralised finance, having contributed to notable projects like Stellite and Metavault DAO.
 
 You can contact Ark by emailing **ark period deliev at edion period io**.
 
-## Olivia Monné - Co-founder, CTO
+## Olivia Monné - Co-founder, CTO  [(Linkedin)]()
 Olivia completed her bachelor's degree in AI at the University of Groningen and her master’s in AI at the Vrije University in Amsterdam. Her expertise in machine learning is enriched by significant contributions to the DeFi project Eternal as well as her experience freelancing as a full-stack engineer. 
 
 You can contact Olivia by emailing **omonne at edion period io**.
 
-## Liam McGillycuddy
+## Liam McGillycuddy - Business & Outreach Coordinator
 Liam is completing his master's degree in Urban & Economic Geography at Utrecht University. His knowledge regarding the interaction of social and technical systems has developed throughout his academic career, reflecting a desire to ethically and dilligently employ technical solutions within social niches. He also brings experience in visual design and marketing, exemplified in work for various individual clients and organizations like Oikocredit.
 
 You can contact Liam by emailing **lmcg at edion period io**.
