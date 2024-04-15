@@ -19,7 +19,12 @@ Olivia completed her bachelor's degree in AI at the University of Groningen and 
 
 You can contact Olivia by emailing **omonne at edion period io**.
 
-The duo's combined skills set, rooted in AI and amplified by real-world applications in crypto and DeFi, are the driving forces propelling Edion to pioneer transformative educational solutions.
+## Liam McGillycuddy
+Liam is completing his master's degree in Urban & Economic Geography at Utrecht University. His knowledge regarding the interaction of social and technical systems has developed throughout his academic career, reflecting a desire to ethically and dilligently employ technical solutions within social niches. He also brings experience in visual design and marketing, exemplified in work for various individual clients and organizations like Oikocredit.
+
+You can contact Liam by emailing **lmcg at edion period io**.
+
+The trio's combined expertise—spanning AI, urban and economic geography, visual design, and real-world applications in crypto and DeFi—forms the robust backbone of Edion. This diverse skill set fuels our mission to pioneer transformative educational solutions that are not only innovative but also deeply rooted in ethical practices and real-world applicability.
 
 ---
 # Our Current Focus
