@@ -57,17 +57,17 @@ At Edion, innovation is continuous. We are committed to staying ahead of technol
 ## Meet the Team
 Edion’s journey is steered by co-founders Ark Deliev and Olivia Monné.
 
-## Ark Deliev - Co-founder, CEO  [(LinkedIn)](https://www.linkedin.com/in/arkdeliev/)
+### Ark Deliev - Co-founder, CEO  [(LinkedIn)](https://www.linkedin.com/in/arkdeliev/)
 Ark is an AI bachelor-level student at the University of Groningen, scheduled to graduate next year. He brings to Edion a rich backdrop of experience and insights from the realms of crypto and decentralised finance, having contributed to notable projects, including Metavault DAO.
 
 You can contact Ark by emailing **ark period deliev at edion period io**.
 
-## Olivia Monné - Co-founder, CTO  [(LinkedIn)](https://www.linkedin.com/in/olivia-monne/)
+### Olivia Monné - Co-founder, CTO  [(LinkedIn)](https://www.linkedin.com/in/olivia-monne/)
 Olivia completed her bachelor's degree in AI at the University of Groningen and her master’s in AI at the Vrije University in Amsterdam. Her expertise in machine learning is enriched by significant contributions to the DeFi project Eternal as well as her experience freelancing as a full-stack engineer. 
 
 You can contact Olivia by emailing **omonne at edion period io**.
 
-## Liam McGillycuddy - Business & Outreach Coordinator  [(LinkedIn)](https://www.linkedin.com/in/liam-mcgillycuddy-65b2a01ba/)
+### Liam McGillycuddy - Business & Outreach Coordinator  [(LinkedIn)](https://www.linkedin.com/in/liam-mcgillycuddy-65b2a01ba/)
 Liam is completing his master's degree in Urban & Economic Geography at Utrecht University. His knowledge regarding the interaction of social and technical systems has developed throughout his academic career, reflecting a desire to ethically and dilligently employ technical solutions within social niches. He also brings experience in visual design and marketing, exemplified in work for various individual clients and organizations like Oikocredit.
 
 You can contact Liam by emailing **lmcg at edion period io**.
