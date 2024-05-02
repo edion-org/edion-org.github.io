@@ -35,7 +35,7 @@ At Edion, our core focus is on transforming the educational landscape through tw
 ## Progress and Innovation
 
 ### Completion of MIT Feasibility Study
-We successfully concluded an MIT-funded feasibility study that encompassed both economic and technical research. This critical phase involved detailed discussions with dozens of teachers across the Netherlands and educational experts globally. Our findings have directly informed the development of our AI-driven solutions, ensuring they meet the real-world needs of educators.
+We successfully concluded a feasibility study, funded by the MIT grant, administered by the Samenwerkingsverband Noord-Nederland (SNN), that encompassed both economic and technical research. This critical phase involved detailed discussions with dozens of teachers across the Netherlands and educational experts globally. Our findings have directly informed the development of our AI-driven solutions, ensuring they meet the real-world needs of educators.
 
 ### Prototype Development
 We are currently in the development phase of our AI Teaching Assistant, focusing initially on the report generation module. This module is designed to automate one of the most time-consuming tasks for educators, transforming hours of paperwork into minutes of conversation. The prototype is slated to be functional and ready for initial testing in classroom settings by July this year.
@@ -47,7 +47,7 @@ Following the initial prototype release, we plan to engage in rigorous testing w
 Post-prototype testing, our roadmap includes the development of further advanced modules such as exercise and test generation. These features will complement the report generation by offering comprehensive content creation that supports personalized learning experiences.
 
 ### Strategic Collaborations
-We actively seek and establish collaborations that enhance our technological capabilities and expand our reach. Partnerships with academic institutions and technology leaders are pivotal in our ongoing research and development efforts, ensuring that Edion remains at the cutting edge of educational technology.
+We actively seek and establish collaborations that enhance our technological capabilities and expand our reach. Partnerships with academic institutions and technology leaders are pivotal in our ongoing research and development efforts.
 
 ### Commitment to Continuous Innovation
 At Edion, innovation is continuous. We are committed to staying ahead of technological advancements and educational needs. Our team is constantly exploring new ways to enhance the effectiveness and efficiency of educational processes through AI and machine learning.
