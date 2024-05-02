@@ -58,7 +58,7 @@ At Edion, innovation is continuous. We are committed to staying ahead of technol
 Edion’s journey is steered by co-founders Ark Deliev and Olivia Monné.
 
 ## Ark Deliev - Co-founder, CEO  [(LinkedIn)](https://www.linkedin.com/in/arkdeliev/)
-Ark is an AI bachelor-level student at the University of Groningen, scheduled to graduate next year. He brings to Edion a rich backdrop of experience and insights from the realms of crypto and decentralised finance, having contributed to notable projects like Stellite and Metavault DAO.
+Ark is an AI bachelor-level student at the University of Groningen, scheduled to graduate next year. He brings to Edion a rich backdrop of experience and insights from the realms of crypto and decentralised finance, having contributed to notable projects, including Metavault DAO.
 
 You can contact Ark by emailing **ark period deliev at edion period io**.
 
