@@ -1,24 +1,24 @@
 # Welcome to Edion
 
-Edion is redefining education through AI, with a clear mission: to bring back the joy of teaching. Our innovative AI solutions, including a Teaching Assistant and an Intelligent Tutoring System (ITS), are designed not just to automate but to invigorate the teaching process by significantly reducing administrative burdens.
+Edion creates AI-driven solutions for teachers and students to find their joy in teaching and learning.
 
 ---
 
 ## Our Mission
 
-**Reviving the Joy of Teaching**: At Edion, we believe that teaching should be a joyful and engaging experience. Our research shows that current market solutions, rather than reducing the workload, often add to it by increasing administrative tasks. This insight led us to develop solutions that enable teachers to focus more on teaching and less on time-consuming tasks like report creation—identified as a primary pain point among educators.
+The age of artificial intelligence has begun and teachers are still spending too much time on administrative work, with little time left for students. Let's face it—manually filling-in custom templates, grading work or writing reports is outdated and inefficient. That's why at Edion we want to give all educators the freedom to design classrooms exactly the way they want to, while students learn exactly the way they like to.
 
 ---
 
 ## What We Do
 
-At Edion, our core focus is on transforming the educational landscape through two groundbreaking AI-driven solutions: the AI Teaching Assistant and the Intelligent Tutoring System (ITS). Each is designed to target specific areas of the educational process, making teaching and learning more effective and enjoyable.
+Edion's core focus is on transforming the educational landscape through two groundbreaking AI-driven solutions: our Teaching Assistant is designed to elevate educators by significantly reducing administrative workload, while our Intelligent Tutoring System (ITS) is engineered to unlock any learner's happiness.
+
+**Talk To Your cApp**: Technology isn't easy to use, and AI is hardly explainable. All of our tools exist as conversational applications (cApps): lifelike applications designed to meet any educator's needs through a speech-first interface. With the capacity to explain their reasoning and actions, cApps align with every day communication by enabling users to interact with software in a conversational manner. This significantly enhances user experience and efficiency and makes the technology accessible to everyone regardless of their digital skills.
 
 ### AI Teaching Assistant
 
-**Revolutionizing Administrative Tasks**: Our AI Teaching Assistant is primarily developed to tackle the most time-consuming administrative tasks that burden educators. By automating the generation of detailed academic and behavioral reports, the assistant significantly reduces the time teachers spend on paperwork, allowing them to dedicate more energy to interactive teaching.
-
-**Speech-First Interaction and cApps**: Unlike traditional digital tools that often require manual data entry, our assistant operates on a speech-first interface, classified under a new and emerging category of software known as cApps (conversational applications). This innovative approach allows educators to interact with the assistant using natural language, making the technology more accessible and aligned with everyday communication. cApps represent a shift towards more dynamic and user-friendly interfaces, where users can engage with software in a conversational manner, enhancing user experience and efficiency.
+**Revolutionizing Administrative Tasks**: Our AI Teaching Assistant is primarily developed to tackle the most time-consuming administrative tasks that burden educators. By automating the generation of detailed academic and behavioral reports, the assistant significantly reduces the time teachers spends on grading, filing paperwork and creating classroom content, allowing them to dedicate more energy to interactive teaching.
 
 **Customizable Content Creation**: The assistant not only handles administrative tasks but also aids in creating personalized educational content. This includes generating customized tests and exercises based on the curriculum and individual student needs, thus supporting differentiated instruction.
 
