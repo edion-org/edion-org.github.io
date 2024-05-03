@@ -18,7 +18,7 @@ Edion's core focus is on transforming the educational landscape through two grou
 
 ### AI Teaching Assistant
 
-**Revolutionizing Administrative Tasks**: Our AI Teaching Assistant is primarily developed to tackle the most time-consuming administrative tasks that burden educators. By automating the generation of detailed academic and behavioral reports, the assistant significantly reduces the time teachers spends on grading, filing paperwork and creating classroom content, allowing them to dedicate more energy to interactive teaching.
+**Revolutionizing Administrative Tasks**: Our AI Teaching Assistant is primarily developed to tackle the most time-consuming administrative tasks that burden educators. By automating most of the efforts needed to grade papers, write reports or keep track of students, the assistant significantly reduces the time teachers spends on peripheral tasks, allowing them to dedicate more energy to improving their classroom.
 
 **Customizable Content Creation**: The assistant not only handles administrative tasks but also aids in creating personalized educational content. This includes generating customized tests and exercises based on the curriculum and individual student needs, thus supporting differentiated instruction.
 
