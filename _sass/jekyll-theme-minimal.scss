@@ -1,6 +1,11 @@
 @import "fonts";
 @import "rouge-github";
 
+.logo {
+  width: 100px; /* Adjust this value */
+  height: auto; /* Maintain aspect ratio */
+}
+
 body {
   background-color: #fff;
   padding:50px;
