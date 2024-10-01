@@ -1,10 +1,9 @@
 ## Our Mission
-Let's face it—manually filling-in custom templates, grading work or writing reports is outdated and inefficient. Worst of all, teachers who struggle, struggle to teach, and when teachers struggle, our students fall behind. It's time to ease the burden on teachers' shoulders, put their time back in their hands, and help help them enjoy the work they love. 
----
+Administrative work has become too much for educators to handle during the workweek. Teachers who struggle, struggle to teach, and when teachers struggle, our students fall behind. It's time to ease the burden on teachers' shoulders, put their time back in their hands, and help them enjoy the work they love. Edion is here to make that happen, and ensure that the next generation is taught by teachers who wear their smiles as proudly as their students.
 
 ## What We Do
 
-Edion's core focus is on transforming the educational landscape through two groundbreaking AI-driven solutions: our Teaching Assistant is designed to elevate educators by significantly reducing administrative workload, and our Intelligent Tutoring System (ITS) is engineered to unlock any learner's happiness.
+Edion's core focus is on transforming the educational landscape through two groundbreaking solutions: our Teaching Assistant is designed to elevate educators by significantly reducing administrative workload, and our Intelligent Tutoring System (ITS) is engineered to unlock any learner's happiness.
 
 **Talk To Your cApp**: Technology isn't easy to use, and AI is hardly explainable. All of our tools exist as conversational applications (cApps): lifelike applications designed to meet any educator's needs through a speech-first interface. With the capacity to explain their reasoning and actions, cApps align with every day communication by enabling users to interact with software in a conversational manner. This significantly enhances user experience and efficiency and makes the technology accessible to everyone regardless of their digital skills.
 
