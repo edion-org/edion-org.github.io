@@ -1,13 +1,5 @@
-# Welcome to Edion
-
-Edion creates AI-driven solutions for teachers and students to find their joy in teaching and learning.
-
----
-
 ## Our Mission
-
-The age of artificial intelligence has begun and teachers are still spending too much time on administrative work, with little time left for students. Let's face it—manually filling-in custom templates, grading work or writing reports is outdated and inefficient. That's why at Edion we want to give all educators the freedom to design classrooms exactly the way they want to, while students learn exactly the way they like to.
-
+Let's face it—manually filling-in custom templates, grading work or writing reports is outdated and inefficient. Worst of all, teachers who struggle, struggle to teach, and when teachers struggle, our students fall behind. It's time to ease the burden on teachers' shoulders, put their time back in their hands, and help help them enjoy the work they love. 
 ---
 
 ## What We Do
